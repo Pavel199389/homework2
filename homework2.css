@@ -1,0 +1,110 @@
+.test1 {
+    background:red;
+    width: 150px;
+
+}
+.test_1{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.test2 {
+    background: blue;
+    width: 200px; 
+    height: 45px;
+    margin-bottom: 20px;
+}
+hr{
+    margin-bottom: 20px;
+}
+.test3{
+    background:yellow;
+    width: 300px;
+    height: 40px;
+    margin-bottom: 30px;
+}
+.one{
+    background: red;
+    width:50px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.two{
+    background: orange;
+    width: 100px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.three{
+    background: blue;
+    width:140px;
+    height: 40px;
+    margin-bottom: 60px;
+}
+.Joy{
+    background: #FD7343;
+    width:200px;
+    height:80px;
+    margin-bottom: 30px;
+}
+.text_joy{
+    font-size: 150%;
+    padding: 20px 20px 30px 20px;
+}
+.headers{
+    background:#D6D7BF; 
+    width:450px;
+    height:200px;
+    margin-bottom:20px;
+    padding: 2px 10px 10px 5px;
+}
+h1{
+    color:#522606;
+
+}
+h3{
+    color:#86542E;
+
+}
+.url{
+    color: green;
+}
+.border_1{
+    border: 3px dashed  black;
+    height: 130px;
+    width: 550px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.border_2{
+    border: 3px dashed black;
+    height:180px;
+    width:600px;font-size: 20px;
+  
+}
+    
+.sub_one{
+    color:blue;
+}
+.sub_two{
+    color:blue;
+}
+.sub_three{
+    color:red;
+}
+.sub_four{
+    color:blue;
+}
+.sub_five{
+    color:red;
+}
+.sub_six{
+    color:blue;
+}
+
+.p_two{
+    font-style:italic;
+}
+span{
+    font-style:italic;
+}
